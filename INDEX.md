@@ -6,7 +6,7 @@
 
 ## 主题文档 (docs/)
 
-- 待添加
+- [OpenClaw 评估指南](docs/openclaw-evaluation.md) - OpenClaw 适用场景、部署难点和决策标准
 
 ## 常见问题 (faq/)
 
